@@ -20,10 +20,10 @@ export default function Contact() {
           <p className="text-xl md:text-2xl text-zinc-400 mb-12 max-w-2xl mx-auto font-light">
             I’m available for freelance projects and collaborations. Let’s create something amazing.
           </p>
-          
+
           <div className="flex flex-col md:flex-row gap-6 justify-center items-center">
             <motion.a
-              href="mailto:placeholder@email.com"
+              href="mailto:talhakhubaib007@gmail.com"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="px-10 py-5 bg-[var(--accent)] text-white font-bold rounded-full text-lg shadow-[0_0_30px_rgba(217,70,239,0.3)]"
@@ -32,12 +32,12 @@ export default function Contact() {
             </motion.a>
             <div className="flex gap-8 text-zinc-400 font-medium">
               <a href="https://www.linkedin.com/in/talhakhubaib007/" target="_blank" className="hover:text-white transition-colors">LinkedIn</a>
-              <a href="#" className="hover:text-white transition-colors">Upwork</a>
-              <a href="#" className="hover:text-white transition-colors">Medium</a>
+              <a href="#" target="_blank" className="hover:text-white transition-colors">Upwork</a>
+              <a href="https://wa.me/923156202796" target="_blank" className="hover:text-white transition-colors">WhatsApp</a>
             </div>
           </div>
         </motion.div>
-        
+
         <footer className="mt-32 pt-8 border-t border-white/5 flex flex-col md:flex-row justify-between items-center text-zinc-600 text-sm">
           <p>© {new Date().getFullYear()} Talha Khubaib. All rights reserved.</p>
           <p className="mt-4 md:mt-0 tracking-widest uppercase">3D Product Animation Artist</p>
