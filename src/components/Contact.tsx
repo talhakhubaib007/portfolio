@@ -32,7 +32,7 @@ export default function Contact() {
             </motion.a>
             <div className="flex gap-8 text-zinc-400 font-medium">
               <a href="https://www.linkedin.com/in/talhakhubaib007/" target="_blank" className="hover:text-white transition-colors">LinkedIn</a>
-              <a href="#" target="_blank" className="hover:text-white transition-colors">Upwork</a>
+              <a href="https://www.upwork.com/freelancers/~019f03efa827da1069" target="_blank" className="hover:text-white transition-colors">Upwork</a>
               <a href="https://wa.me/923156202796" target="_blank" className="hover:text-white transition-colors">WhatsApp</a>
             </div>
           </div>
