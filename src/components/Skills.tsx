@@ -13,11 +13,11 @@ const coreSkills = [
 ];
 
 const tools = [
-  { name: "Blender", level: "Expert" },
-  { name: "Adobe After Effects", level: "Advanced" },
-  { name: "Adobe Premiere Pro", level: "Advanced" },
-  { name: "Adobe Photoshop", level: "Advanced" },
-  { name: "Adobe Illustrator", level: "Intermediate" },
+  { name: "Blender", level: "Advanced" },
+  { name: "Adobe After Effects", level: "Expert" },
+  { name: "Adobe Premiere Pro", level: "Expert" },
+  { name: "Adobe Photoshop", level: "Expert" },
+  { name: "Adobe Illustrator", level: "Basic" },
 ];
 
 export default function Skills() {
